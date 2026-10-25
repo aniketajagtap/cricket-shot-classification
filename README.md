@@ -1,7 +1,5 @@
 # Cricket Shot Classification with ResNet-50
 
-# Cricket Shot Classification with ResNet-50
-
 A computer-vision project that uses transfer learning with a pretrained **ResNet-50** model to classify cricket-shot images into four categories.
 
 ## Project overview
